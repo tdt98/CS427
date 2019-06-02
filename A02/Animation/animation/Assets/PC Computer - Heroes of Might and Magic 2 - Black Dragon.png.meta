@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 822b5b7a3d53ea943b74f0ba32dc607a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Heroes of Might and Magic 2 - Black Dragon_0
+    21300002: PC Computer - Heroes of Might and Magic 2 - Black Dragon_1
+    21300004: PC Computer - Heroes of Might and Magic 2 - Black Dragon_2
+    21300006: PC Computer - Heroes of Might and Magic 2 - Black Dragon_3
+    21300008: PC Computer - Heroes of Might and Magic 2 - Black Dragon_4
+    21300010: PC Computer - Heroes of Might and Magic 2 - Black Dragon_5
+    21300012: PC Computer - Heroes of Might and Magic 2 - Black Dragon_6
+    21300014: PC Computer - Heroes of Might and Magic 2 - Black Dragon_7
+    21300016: PC Computer - Heroes of Might and Magic 2 - Black Dragon_8
+    21300018: PC Computer - Heroes of Might and Magic 2 - Black Dragon_9
+    21300020: PC Computer - Heroes of Might and Magic 2 - Black Dragon_10
+    21300022: PC Computer - Heroes of Might and Magic 2 - Black Dragon_11
+    21300024: PC Computer - Heroes of Might and Magic 2 - Black Dragon_12
+    21300026: PC Computer - Heroes of Might and Magic 2 - Black Dragon_13
+    21300028: PC Computer - Heroes of Might and Magic 2 - Black Dragon_14
+    21300030: PC Computer - Heroes of Might and Magic 2 - Black Dragon_15
+    21300032: PC Computer - Heroes of Might and Magic 2 - Black Dragon_16
+    21300034: PC Computer - Heroes of Might and Magic 2 - Black Dragon_17
+    21300036: PC Computer - Heroes of Might and Magic 2 - Black Dragon_18
+    21300038: PC Computer - Heroes of Might and Magic 2 - Black Dragon_19
+    21300040: PC Computer - Heroes of Might and Magic 2 - Black Dragon_20
+    21300042: PC Computer - Heroes of Might and Magic 2 - Black Dragon_21
+    21300044: PC Computer - Heroes of Might and Magic 2 - Black Dragon_22
+    21300046: PC Computer - Heroes of Might and Magic 2 - Black Dragon_23
+    21300048: PC Computer - Heroes of Might and Magic 2 - Black Dragon_24
+    21300050: PC Computer - Heroes of Might and Magic 2 - Black Dragon_25
+    21300052: PC Computer - Heroes of Might and Magic 2 - Black Dragon_26
+    21300054: PC Computer - Heroes of Might and Magic 2 - Black Dragon_27
+    21300056: PC Computer - Heroes of Might and Magic 2 - Black Dragon_28
+    21300058: PC Computer - Heroes of Might and Magic 2 - Black Dragon_29
+    21300060: PC Computer - Heroes of Might and Magic 2 - Black Dragon_30
+    21300062: PC Computer - Heroes of Might and Magic 2 - Black Dragon_31
+    21300064: PC Computer - Heroes of Might and Magic 2 - Black Dragon_32
+    21300066: PC Computer - Heroes of Might and Magic 2 - Black Dragon_33
+    21300068: PC Computer - Heroes of Might and Magic 2 - Black Dragon_34
+    21300070: PC Computer - Heroes of Might and Magic 2 - Black Dragon_35
+    21300072: PC Computer - Heroes of Might and Magic 2 - Black Dragon_36
+    21300074: PC Computer - Heroes of Might and Magic 2 - Black Dragon_37
+    21300076: PC Computer - Heroes of Might and Magic 2 - Black Dragon_38
+    21300078: PC Computer - Heroes of Might and Magic 2 - Black Dragon_39
+    21300080: PC Computer - Heroes of Might and Magic 2 - Black Dragon_40
+    21300082: PC Computer - Heroes of Might and Magic 2 - Black Dragon_41
+    21300084: PC Computer - Heroes of Might and Magic 2 - Black Dragon_42
+    21300086: PC Computer - Heroes of Might and Magic 2 - Black Dragon_43
+    21300088: PC Computer - Heroes of Might and Magic 2 - Black Dragon_44
+    21300090: PC Computer - Heroes of Might and Magic 2 - Black Dragon_45
+    21300092: PC Computer - Heroes of Might and Magic 2 - Black Dragon_46
+    21300094: PC Computer - Heroes of Might and Magic 2 - Black Dragon_47
+    21300096: PC Computer - Heroes of Might and Magic 2 - Black Dragon_48
+    21300098: PC Computer - Heroes of Might and Magic 2 - Black Dragon_49
+    21300100: PC Computer - Heroes of Might and Magic 2 - Black Dragon_50
+    21300102: PC Computer - Heroes of Might and Magic 2 - Black Dragon_51
+    21300104: PC Computer - Heroes of Might and Magic 2 - Black Dragon_52
+    21300106: PC Computer - Heroes of Might and Magic 2 - Black Dragon_53
+    21300108: PC Computer - Heroes of Might and Magic 2 - Black Dragon_54
+    21300110: PC Computer - Heroes of Might and Magic 2 - Black Dragon_55
+    21300112: PC Computer - Heroes of Might and Magic 2 - Black Dragon_56
+    21300114: PC Computer - Heroes of Might and Magic 2 - Black Dragon_57
+    21300116: PC Computer - Heroes of Might and Magic 2 - Black Dragon_58
+    21300118: PC Computer - Heroes of Might and Magic 2 - Black Dragon_59
+    21300120: PC Computer - Heroes of Might and Magic 2 - Black Dragon_60
+    21300122: PC Computer - Heroes of Might and Magic 2 - Black Dragon_61
+    21300124: PC Computer - Heroes of Might and Magic 2 - Black Dragon_62
+    21300126: PC Computer - Heroes of Might and Magic 2 - Black Dragon_63
+    21300128: PC Computer - Heroes of Might and Magic 2 - Black Dragon_64
+    21300130: PC Computer - Heroes of Might and Magic 2 - Black Dragon_65
+    21300132: PC Computer - Heroes of Might and Magic 2 - Black Dragon_66
+    21300134: PC Computer - Heroes of Might and Magic 2 - Black Dragon_67
+    21300136: PC Computer - Heroes of Might and Magic 2 - Black Dragon_68
+    21300138: PC Computer - Heroes of Might and Magic 2 - Black Dragon_69
+    21300140: PC Computer - Heroes of Might and Magic 2 - Black Dragon_70
+    21300142: PC Computer - Heroes of Might and Magic 2 - Black Dragon_71
+    21300144: PC Computer - Heroes of Might and Magic 2 - Black Dragon_72
+    21300146: PC Computer - Heroes of Might and Magic 2 - Black Dragon_73
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 756
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8900bb795e701142a2b1a116838ca69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 756
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef36e5bb1e59cdf4fa90105411312ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 756
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e3f06e0ab35a40ac39effc5d5fb47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 756
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b348586aaabeac42a27d407176ba6ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 756
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da10ce9cb7574d419ce5773b8aa8d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 756
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dec81b55f8f0894abbdcfcfa2cbc4e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 756
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a782c082bac3d33498413f5a2adfc24d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 756
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef189792f9665f34c9b5627885f49364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 756
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc50675e8c78e4592986abd4c329a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 756
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea315b9e0ee00b4fb264025cc89653d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 831
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f581695272c3240ac9105b4ed82737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 756
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46038c64d6048c84289232f438b830f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 837
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f468dee202dcc04b8ca93c487449b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 756
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb1155c453886488682eb81594a1aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 846
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e59e2bf6be7b48b1556974e7d2ee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 756
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1647f4b433f3b54285e111f2f777c04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 756
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf156492cbb71b409381e0ff441e539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 617
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32076d628d0e1a64d848683b65acfbc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 617
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c324f27ab10564eb687a4e0250eed6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 616
+        width: 171
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7660aacda80943a289550c5d12ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 617
+        width: 173
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f043c9462990441acb3e6ce319a2ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 643
+        width: 191
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35e655cf3c1219439771972d64df023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 628
+        width: 172
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea38ee06159d3e44afe7814565458aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 617
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87fa2a82028e8419bc01dd0eed5510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 618
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563947364b82234aaa9d43d56ae4022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 618
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940710a3fff1ba241bc8eb04acac2883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 519
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48356b49d06e747a61635f248c1e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 518
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd881c266d7f02c47a8ee611f20b2354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 518
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7d72e6909ec54f8b4f1f70db46e0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 519
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0983e9d04ff89c14e94279f1b42cd276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 518
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d6e9ef13281d04798c944e3fb3e314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 401
+        width: 217
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d8831a77742104fba3371c7cc3398a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 487
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2b40508ff98e45aac7b23a7682971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 401
+        width: 140
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab508b98b4b44d4db8f199825d7d4b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 401
+        width: 164
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61e311b069b653459b56c6f9c137320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 401
+        width: 196
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a677e3197c3d9b744adff79466408595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 401
+        width: 139
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab522981617ad4ab9beb04c6c0309e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 479
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc02fb40487df5b439dae50f15b2be5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 401
+        width: 141
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8eae1a01d1914eb440a3432902861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 484
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322a7fe65d341c0429ab9760a0abb6ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 401
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f63ff0e89c05c4784398d8a546da0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 279
+        width: 169
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c1d7f365d2af94c90a441d9b20a1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 279
+        width: 197
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e3ab5bc64fb540bc9c447760aa01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 279
+        width: 147
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c01f90244852408a1cce33c5863fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_44
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 287
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03173275877c034baa341ce2b6ecce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 339
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8cfb1691a3c24080b8dbaa4041015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_46
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 279
+        width: 186
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ea9766b412b24d8eb95cb8ea08ed0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_47
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 279
+        width: 242
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed083eef97f09c44ba08d693e790479e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 279
+        width: 161
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d96966b0cbde4487a5ee6c578e887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_49
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 279
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57c0f0fd05222043a479fe926845441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef5cacd9e90104fb4775d15c2aefe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_51
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 124
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda43f1a3aa5894eaa79e5a6a12723f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 125
+        width: 138
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac570cd855a864282eda726a462e89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_53
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 131
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e3b74e82887e4fb56a65fa20717c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 69
+        width: 169
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc9ebf87718464ebeb827ebeee82b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 159
+        width: 140
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6caee6f013645a46aec601d563438ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 159
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637a2532a049924e95a71ad012f81ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 159
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9571c100880d94fb307a38d7bc9a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 159
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07dbed6eab76e44a3d79a0a9a3b07b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 13
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c77b63e723908246963835d0e848844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 10
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67b94e6a32050489b7b9d82e222c80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 4
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e554efe37af7d479376c061522717a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 7
+        width: 106
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c398dbaa5c3947b63087feaca2ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 14
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ee2d2ca9e3a041a50971b23989453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 12
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974a16df0697434890576c1bebac532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 12
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b957b6f07606f074e805b0d9f1b17cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 12
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f06456dab140bb4c90b49f22d6287a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 12
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986121d70c0d01242a4257a54840a273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 12
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b6acc1051a5240a3059faf3f605de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 12
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd58c5437fbe1b40b1edf102c79fa01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 12
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cc2978b9c87a0419f33d7d3d233d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 13
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70eab149f5cef74ebc91dcf76528061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 21
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109759129da4b0842bf29388ba95e7c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Black Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 4
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae01d52ea5bd15b4b8870254d65ed751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 29cf7a4cf601a4043ac1a0daa95b5263
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
