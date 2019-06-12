@@ -1,0 +1,5 @@
+Group 23-1 person
+Name: Tran Dinh Tu
+ID: 1651036
+Github:https://github.com/tdt98/CS427
+

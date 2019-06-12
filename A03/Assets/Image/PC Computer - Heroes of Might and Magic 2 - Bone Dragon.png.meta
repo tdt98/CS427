@@ -1,0 +1,1948 @@
+fileFormatVersion: 2
+guid: 1a8c034c4be0db6439bf5cda392dd877
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_0
+    21300002: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_1
+    21300004: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_2
+    21300006: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_3
+    21300008: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_4
+    21300010: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_5
+    21300012: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_6
+    21300014: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_7
+    21300016: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_8
+    21300018: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_9
+    21300020: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_10
+    21300022: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_11
+    21300024: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_12
+    21300026: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_13
+    21300028: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_14
+    21300030: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_15
+    21300032: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_16
+    21300034: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_17
+    21300036: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_18
+    21300038: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_19
+    21300040: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_20
+    21300042: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_21
+    21300044: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_22
+    21300046: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_23
+    21300048: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_24
+    21300050: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_25
+    21300052: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_26
+    21300054: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_27
+    21300056: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_28
+    21300058: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_29
+    21300060: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_30
+    21300062: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_31
+    21300064: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_32
+    21300066: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_33
+    21300068: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_34
+    21300070: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_35
+    21300072: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_36
+    21300074: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_37
+    21300076: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_38
+    21300078: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_39
+    21300080: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_40
+    21300082: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_41
+    21300084: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_42
+    21300086: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_43
+    21300088: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_44
+    21300090: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_45
+    21300092: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_46
+    21300094: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_47
+    21300096: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_48
+    21300098: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_49
+    21300100: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_50
+    21300102: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_51
+    21300104: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_52
+    21300106: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_53
+    21300108: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_54
+    21300110: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_55
+    21300112: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_56
+    21300114: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_57
+    21300116: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_58
+    21300118: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_59
+    21300120: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_60
+    21300122: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_61
+    21300124: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_62
+    21300126: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_63
+    21300128: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_64
+    21300130: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_65
+    21300132: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_66
+    21300134: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_67
+    21300136: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_68
+    21300138: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_69
+    21300140: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_70
+    21300142: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_71
+    21300144: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_72
+    21300146: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_73
+    21300148: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_74
+    21300150: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_75
+    21300152: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_76
+    21300154: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_77
+    21300156: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_78
+    21300158: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_79
+    21300160: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_80
+    21300162: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_81
+    21300164: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_82
+    21300166: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_83
+    21300168: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_84
+    21300170: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_85
+    21300172: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_86
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1043
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24c2517ab66ee45be500587f1b7139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1043
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc1a2b9ec73f445a0467ae49c27112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1043
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6939b564e8e5be42bef81fbb6fde293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1043
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f7681cc3baa847bd2bf9a0804172f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1043
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4204d55a582ca154e9750b71cf4c8c42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1043
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff7c2b8d0adfb7488db2c1f759e0072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1043
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde41de7b6543342be664c2fe7898f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1043
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50778dea74e9ee84c85762d0b663f8b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 921
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83497bf93b6b0bb41ae7ed2552f59fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 921
+        width: 144
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a32264390959e1458998275d4fe7f35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 924
+        width: 169
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f4a64c0e8c19d45adb67d2ea4df456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 925
+        width: 179
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10219ded6c826f5448d385b95beb5ebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 939
+        width: 169
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3201685308b9054fa957e579a493f6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 924
+        width: 165
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409bc7bb7829114caf41576e343af6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 782
+        width: 159
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ead9aa6f69e7984cadf97e548bfb7cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 776
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94716a4d819a23343a6cab332621ee9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 769
+        width: 133
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18344cb5eebb947499b8b257a09403dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 770
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9208de46beb132144995908dedfd1d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 771
+        width: 123
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a89e631c2d6abd4a99e242853bdef6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 771
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a7f5bff19f76409ea7e56e39e1145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 772
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36afd4d6c2cd4d4b8e4c7d2228ea7cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 633
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff8a9c022c6534b95b5efe1b686970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 633
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0958bb4ee86ff4540b22c0b2b0883bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 633
+        width: 157
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9d1cd0c44b70f4fb0e94fda0e576ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 633
+        width: 151
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31e17010b7f0645a49c83836cbb6f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 633
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f81f74bf420d344849a8c2a86e2b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 293
+        width: 90
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287844591be26304fbde4a9da80b7728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 508
+        width: 134
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808865be3407acf48bb00e769260dcf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 370
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ba8ab34cfb6ce43a535c560f8355e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 457
+        width: 175
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2868c9ab63033048a9d01170ea825c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 370
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07402467bc6ca5b4db17912ee86ee215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 460
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4384be27e251ae945a75165137383b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 471
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f6b545cab010b4587b277b68b32da2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 462
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7148e43622452f4786b5aa46efcf9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 492
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b0d3ca0f834d458dca6bff479cc8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 370
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3bb2b39eb26f548a7285ba2c2959b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 455
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f0c42ec996d3a4c9dfebac99e13048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 471
+        width: 132
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901c696d0dc66748b6bc620d55a0abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 462
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1717fc018dbf44cb503b3088beffd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 480
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764d8d3cc78a6f14db765119dd6256d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 489
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07184f889ccee4e8e9a2202f0be986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 467
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3f343cbce605b4fbd0c790df572d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 370
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f11a5b6bbadea04aa45c06a40630a0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_43
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 462
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e39b606fd182a341be5196861dcf2bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_44
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 471
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbf30dcda636d942815d08ffeeb39d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 370
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fa68962ab61eb43b62eb03dfcd7c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_46
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 434
+        width: 150
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b442a713821416c4ab4bc2624dfbdde6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_47
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 439
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928afc02aa3492546a90ac920188e804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 370
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69550884df2f1b14e8b7e5aa22d212fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_49
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 422
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2722595dea32f4283b1d2a1706a53f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 315
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac660d46d8f2aa748af206d5cb0de154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 285
+        width: 107
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cefd6b34c926a54fb0ecd66773bb331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_52
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 294
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eddfd0eb10841c4498aa03313eb864a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_53
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 294
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e41115b5653646af19258b9aa1198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 294
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42008ef647290334c8989a6f485c9a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 251
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8d270b701b6394980199ab9c17631c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 286
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e8b37304c528c498b5f08dd7a86faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 291
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0901ed94d45a224c873338a4ca6788a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 280
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa85bbb5086561543b33d167f6224f07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 279
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88059a5b7c44bd84499b891f9fa5fffd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 254
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598a3191f09c39947902132dde70a117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 254
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a844794d830e74f8a3729abf110712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 254
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab85ebe1519be38439e240d400bf95f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 189
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca63ece75fc7034486543628603507c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 166
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7422b23ceb57d0749855ebd891c1a552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 167
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae9509511f88a14096eaaf608d585ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 251
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40cb852e833a814097fad4fe61bb7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc201f391142a4d46addc24aefb48283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 197
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b40f90387b992449a3da46159f701d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 197
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2896d575c522f64e90d1420c6da3c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 125
+        width: 115
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a412c235aa74f448722abd9fb1764f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 189
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295724376a35433428e6f6d95f1e1e46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 177
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd6c50dc66ad4e48b6691288b1c1845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 170
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb015b2d0c94241886a48ee77b5bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 125
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ff48842136134d96ce1b18bfb0757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_75
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 125
+        width: 85
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047b63c2098baa04e97656015bd563f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_76
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 159
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e8c32cb59007a49a0e293d93b318a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_77
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 164
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52910525994ed7349aa573089e2efa80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_78
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 125
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d170f8ea4846324b976fc1081511ec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_79
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 125
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a5adab3ee18544597b73f2b9c2d3c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_80
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 125
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7775c7ce0469e84bb294bb3ed095b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 14
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb95abeebb4fa4196c140e6d5096bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f593966c0f7e04eb37afff8b645c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_83
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51902b57f91f1046895176073c18c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_84
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 14
+        width: 182
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3453706806c0241bf6b2d78baee08e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_85
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83191bc5f90674a9993c1e0c525ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Bone Dragon_86
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 11
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5e6e09cb7bf64c8396e6bb9398d0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51340dfd6ad30ce428de34ab0b2c7850
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

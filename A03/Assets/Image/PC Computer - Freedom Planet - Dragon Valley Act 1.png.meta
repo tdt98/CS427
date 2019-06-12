@@ -1,0 +1,1507 @@
+fileFormatVersion: 2
+guid: 3dfeb7589498b9c4288e1decf439f9ca
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Freedom Planet - Dragon Valley Act 1_0
+    21300002: PC Computer - Freedom Planet - Dragon Valley Act 1_1
+    21300004: PC Computer - Freedom Planet - Dragon Valley Act 1_2
+    21300006: PC Computer - Freedom Planet - Dragon Valley Act 1_3
+    21300008: PC Computer - Freedom Planet - Dragon Valley Act 1_4
+    21300010: PC Computer - Freedom Planet - Dragon Valley Act 1_5
+    21300012: PC Computer - Freedom Planet - Dragon Valley Act 1_6
+    21300014: PC Computer - Freedom Planet - Dragon Valley Act 1_7
+    21300016: PC Computer - Freedom Planet - Dragon Valley Act 1_8
+    21300018: PC Computer - Freedom Planet - Dragon Valley Act 1_9
+    21300020: PC Computer - Freedom Planet - Dragon Valley Act 1_10
+    21300022: PC Computer - Freedom Planet - Dragon Valley Act 1_11
+    21300024: PC Computer - Freedom Planet - Dragon Valley Act 1_12
+    21300026: PC Computer - Freedom Planet - Dragon Valley Act 1_13
+    21300028: PC Computer - Freedom Planet - Dragon Valley Act 1_14
+    21300030: PC Computer - Freedom Planet - Dragon Valley Act 1_15
+    21300032: PC Computer - Freedom Planet - Dragon Valley Act 1_16
+    21300034: PC Computer - Freedom Planet - Dragon Valley Act 1_17
+    21300036: PC Computer - Freedom Planet - Dragon Valley Act 1_18
+    21300038: PC Computer - Freedom Planet - Dragon Valley Act 1_19
+    21300040: PC Computer - Freedom Planet - Dragon Valley Act 1_20
+    21300042: PC Computer - Freedom Planet - Dragon Valley Act 1_21
+    21300044: PC Computer - Freedom Planet - Dragon Valley Act 1_22
+    21300046: PC Computer - Freedom Planet - Dragon Valley Act 1_23
+    21300048: PC Computer - Freedom Planet - Dragon Valley Act 1_24
+    21300050: PC Computer - Freedom Planet - Dragon Valley Act 1_25
+    21300052: PC Computer - Freedom Planet - Dragon Valley Act 1_26
+    21300054: PC Computer - Freedom Planet - Dragon Valley Act 1_27
+    21300056: PC Computer - Freedom Planet - Dragon Valley Act 1_28
+    21300058: PC Computer - Freedom Planet - Dragon Valley Act 1_29
+    21300060: PC Computer - Freedom Planet - Dragon Valley Act 1_30
+    21300062: PC Computer - Freedom Planet - Dragon Valley Act 1_31
+    21300064: PC Computer - Freedom Planet - Dragon Valley Act 1_32
+    21300066: PC Computer - Freedom Planet - Dragon Valley Act 1_33
+    21300068: PC Computer - Freedom Planet - Dragon Valley Act 1_34
+    21300070: PC Computer - Freedom Planet - Dragon Valley Act 1_35
+    21300072: PC Computer - Freedom Planet - Dragon Valley Act 1_36
+    21300074: PC Computer - Freedom Planet - Dragon Valley Act 1_37
+    21300076: PC Computer - Freedom Planet - Dragon Valley Act 1_38
+    21300078: PC Computer - Freedom Planet - Dragon Valley Act 1_39
+    21300080: PC Computer - Freedom Planet - Dragon Valley Act 1_40
+    21300082: PC Computer - Freedom Planet - Dragon Valley Act 1_41
+    21300084: PC Computer - Freedom Planet - Dragon Valley Act 1_42
+    21300086: PC Computer - Freedom Planet - Dragon Valley Act 1_43
+    21300088: PC Computer - Freedom Planet - Dragon Valley Act 1_44
+    21300090: PC Computer - Freedom Planet - Dragon Valley Act 1_45
+    21300092: PC Computer - Freedom Planet - Dragon Valley Act 1_46
+    21300094: PC Computer - Freedom Planet - Dragon Valley Act 1_47
+    21300096: PC Computer - Freedom Planet - Dragon Valley Act 1_48
+    21300098: PC Computer - Freedom Planet - Dragon Valley Act 1_49
+    21300100: PC Computer - Freedom Planet - Dragon Valley Act 1_50
+    21300102: PC Computer - Freedom Planet - Dragon Valley Act 1_51
+    21300104: PC Computer - Freedom Planet - Dragon Valley Act 1_52
+    21300106: PC Computer - Freedom Planet - Dragon Valley Act 1_53
+    21300108: PC Computer - Freedom Planet - Dragon Valley Act 1_54
+    21300110: PC Computer - Freedom Planet - Dragon Valley Act 1_55
+    21300112: PC Computer - Freedom Planet - Dragon Valley Act 1_56
+    21300114: PC Computer - Freedom Planet - Dragon Valley Act 1_57
+    21300116: PC Computer - Freedom Planet - Dragon Valley Act 1_58
+    21300118: PC Computer - Freedom Planet - Dragon Valley Act 1_59
+    21300120: PC Computer - Freedom Planet - Dragon Valley Act 1_60
+    21300122: PC Computer - Freedom Planet - Dragon Valley Act 1_61
+    21300124: PC Computer - Freedom Planet - Dragon Valley Act 1_62
+    21300126: PC Computer - Freedom Planet - Dragon Valley Act 1_63
+    21300128: PC Computer - Freedom Planet - Dragon Valley Act 1_64
+    21300130: PC Computer - Freedom Planet - Dragon Valley Act 1_65
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1173
+        width: 778
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af24bf0703569e43ac60624217d82c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1141
+        width: 260
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309813e765ce50d4496ea8675176f7a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_2
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1073
+        width: 260
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528265c3b9a3b3409812c8f14fecd82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_3
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 945
+        width: 322
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0274d9b0c2a8e747b9386edd6b6abd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_4
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 177
+        width: 324
+        height: 1084
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a8b7522d0feea4094f062dacf3bfe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_5
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1025
+        width: 324
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36195890a8672b4baf3b48ee6de5a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_6
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1046
+        width: 326
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518080c852c6b940bf97a8a9f4720d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1077
+        width: 778
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee6a732e2724f4f8dad3b48ebe363d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_8
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1015
+        width: 260
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27cae84c3454c43a8a26dbfad5daf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 353
+        width: 310
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac68a70b7e8b048acf768f63e43c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 913
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8addfd5b6158cdf428ccee6592060840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 977
+        width: 133
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe3cad6b5ef9e646b272f2aab46cc86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_12
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 994
+        width: 131
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573963d66f63eae43a656df8911a75a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_13
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 889
+        width: 260
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722e3b410efb773459dfe69d46a7de21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_14
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 865
+        width: 254
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915aeac10bd3d0d4ba493d63866774ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_15
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 829
+        width: 484
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96481728d681e20449a8ae96e586c5e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_16
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 944
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e17ac9400491444a461615d5a44bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_17
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 994
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f389ad223c3203949a4306336eeaabbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_18
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 995
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d636bdf0719d94aab0990059a3d398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_19
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 977
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6719b796a1c26bb4dba59592309f8d4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 841
+        width: 293
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119bf7f4062d33c468e06a033cf9bfdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_21
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 944
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cef01852a818040909e48153e83f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_22
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 945
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d01663fe83b0d4f8898abdf7ae6513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 817
+        width: 133
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f825dff35a69a444b83ea7b5afaeefec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_24
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 841
+        width: 19
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93bd8beb7804a4b8c176e081c74f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_25
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 841
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01226d6036d3f441a244451dfb673c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_26
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 592
+        width: 322
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c95d97b2d5c774b9463bb89927590b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_27
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 882
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aff7f2b5bbf274d8f413dbc4ef31d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_28
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 885
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872d84f6c114be49af531d3366bd5b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_29
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 880
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd619d2db4de4408dd92ac22b3a009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_30
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 880
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c2d7d237bc724ea713487e4d362e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_31
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 689
+        width: 251
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d48b3650ca4541bf37c3dcd3913dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 469
+        width: 205
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00697c367dbbb914abbc88b667a51d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_33
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 786
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a138a88be4b18f45aba29ec2c03c680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_34
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 657
+        width: 131
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd100803f7d75746a466b97119de69f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_35
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 657
+        width: 132
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be074406f5052c441bb122e1267b0d28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_36
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 745
+        width: 484
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1fcc0e85e2d548a0a3945387a33bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_37
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 738
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c3da597c4d36049a6ef049dfe8a88d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_38
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 817
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0d779165be5a428df7af24d1d91a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_39
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 817
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4669058d48a318a48ace728a98fcdafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_40
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 817
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d48d955b4a1284ea279b84bf6d09bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 689
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46d296c67db4841bd0d622abc37ee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_42
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d2ea03dfbce64c869e9b96dc67b5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_43
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 429
+        width: 260
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7a52167afa91d4891267cebf41be98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 353
+        width: 139
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8cb6a9c248bdb4798c0681898556e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_45
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 641
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89cd20532ef20546af5a586da5defb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_46
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 281
+        width: 403
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4434efb02f4d5e47b8e2512d7cafaf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_47
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 520
+        width: 324
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80942cee8623a44e8913dcb4ce8be6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_48
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 534
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5332f3c01a5903d4b81be3a8b9b4c28d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_49
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 177
+        width: 643
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f009e5d805c940a4e92d55984c697f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_50
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 441
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f4bbe985c0dbd4498061fc35e55487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_51
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 310
+        width: 388
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27867988e42631344980cd95fa436a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_52
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 342
+        width: 195
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9255e5df915eb744fb84f9b8330f11f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 224
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f18467a244dfc40b9dd81c43071dd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 224
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89761fa71c2ffd74db32f40d22b4af8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_55
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 33
+        width: 646
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5586307f55114cb52b4cefe2415f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 33
+        width: 337
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf46c7388c92004aa7a86752a1a346a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_57
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 33
+        width: 155
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa53bcb472ddc45826c4b4bed4607d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_58
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 33
+        width: 148
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f52d3b5a90e445a6a42bc827638b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_59
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 33
+        width: 148
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80de29500cdb44a966dacab3ce7b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_60
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 62
+        width: 260
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbede78c8d2b904aa26e437724e21a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_61
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 2
+        width: 155
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10569d5cc2c2e704cbbee83ab308a37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_62
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2
+        width: 155
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f536850b9ebe147a1a4025a41f84a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_63
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 4
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e6677684022434db7bfd637ebd5609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_64
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 4
+        width: 229
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557768d54e88624f842b34ad2fe4af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Dragon Valley Act 1_65
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 49
+        width: 233
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052ef847c653e3f4c89c843c738e078e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f732c4dac42a9bf49808bbc8d7a2fa37
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
